@@ -12,6 +12,7 @@ This ledger records decisions that shape the public ScoutSA website. A proposal 
 | W-006 | Treat all repository content as public because the repository is public. | Accepted | Prevents confidential project material from entering source control. | Revisit only if repository visibility changes; still assume history may persist. |
 | W-007 | No claims of guaranteed discovery, trials, contracts, placements, verification or partnerships. | Accepted | Prevents misleading visitors and protects trust. | No exception without evidence and explicit approval. |
 | W-008 | No contact form collecting personal data until its data flow and privacy basis are reviewed. | Proposed | Avoids collecting information before ownership, retention and response processes exist. | Review once an approved contact process is ready. |
+| W-009 | Hold outbound external validation, stakeholder interviews, partnership/funding pitches and active promotion of the website as a pitch asset until the internal product prototype is working, internally tested, independently reviewed and explicitly accepted by the project owner. | Accepted | Prevents stakeholders being asked to validate or support a product before a credible, tested demonstration exists; the website's existing calls to external validation do not override this gate. | Revisit only after the prototype acceptance evidence and owner decision are recorded. |
 
 ## Change protocol
 
